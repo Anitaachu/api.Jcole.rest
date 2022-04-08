@@ -1,0 +1,210 @@
+[
+    {
+        "model": "quotes.cole",
+        "pk": 1, 
+        "fields":{
+            "quote": "Life can bring much pain. There are many ways to deal with this pain. Choose wisely.",
+            "author": "J.cole",
+            "song": "KOD"
+
+        }
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 2, 
+        "fields":{
+            "quote": "But see I'm growing and getting stronger with every breath",
+            "author": "J.cole",
+            "song": "Change" 
+        }
+    }, 
+    {
+        "model": "quotes.cole",
+        "pk": 3, 
+        "fields":{
+            "quote": "Every time you go to sleep you look like you in Heaven",
+            "author": "J.cole",
+            "song": "She's Mine Pt 1" 
+        }
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 4, 
+        "fields":{
+            "quote": "And the strongest drug of them all - Love",
+            "author": "J.cole",
+            "song": "KOD" 
+        } 
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 5, 
+        "fields":{
+            "quote": "Sometimes I think pain is just a lack of understanding. If we could only understand it all, would we feel no pain? God must feel no pain",
+            "author": "J.cole",
+            "song": "Once an addict"   
+        }
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 6, 
+        "fields":{
+            "quote": "One thing about your demons they bound to catch up one day. I'd rather see you stand up and face them than run away",
+            "author": "J.cole",
+            "song": "Friends" 
+        }
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 7, 
+        "fields":{
+            "quote": "To appreciate the sun, you gotta know what rain is.",
+            "author": "J.cole",
+            "song": "Coming home"   
+        } 
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 8, 
+        "fields":{
+            "quote": "No such thing as a life that's better than yours, no such thing-no such thing…",
+            "author": "J.cole",
+            "song": "Love yours"  
+        }
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 9, 
+        "fields":{
+            "quote": "I flip my misfortune and grow me a fortune",
+            "author": "J.cole",
+            "song": "ATM"
+        }  
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 10, 
+        "fields":{
+            "quote": "You can dream but don't neglect the execution",
+            "author": "J.cole",
+            "song": "Change"
+        }     
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 11, 
+        "fields":{
+            "quote": "I'm searching and praying and hoping for somethingI know I'm gon' see it, I know that it's coming",
+            "author": "J.cole",
+            "song": "For Whom the Bell Tolls"
+        }    
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 12, 
+        "fields":{
+            "quote": "If practice made perfect, I'm practice's baby",
+            "author": "J.cole",
+            "song": "KOD"
+        }
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 13, 
+        "fields":{
+            "quote": "At the bottom of the hourglass Lies sand that represents the past. In which all of my demons rest. I'm calling out for help",
+            "author": "J.cole",
+            "song": "KOD"  
+        }
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 14, 
+        "fields":{
+            "quote": "Just because yo' dick can spray semen, it don't mean that you ready to let go of yo' childish ways",
+            "author": "J.cole",
+            "song": "Window pain"  
+        }
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 15, 
+        "fields":{
+            "quote": "But the only real change come from inside",
+            "author": "J.cole",
+            "song": "Change" 
+        }
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 16, 
+        "fields":{
+            "quote": "I know that everything that glitters ain't gold. I know the shit ain't always good as it seems, But tell me till you get it how could you know?",
+            "author": "J.cole",
+            "song": "A tale of two citiez" 
+        }
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 17, 
+        "fields":{
+            "quote": "One day y'all have to decide, who you gon' be. A scary nigga or a nigga that's gon' rule like me",
+            "author": "J.cole",
+            "song": "Fire squad" 
+        }
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 18, 
+        "fields":{
+            "quote": "What good is the bread if my niggas is broke? What good is first class if my niggas can't sit?",
+            "author": "J.cole",
+            "song": "Middle child"
+        } 
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 19, 
+        "fields":{
+            "quote": "Cause you a star—no, not the type that snort the white lines. I mean the type to light the nighttime",
+            "author": "J.cole",
+            "song": "Deja Vu"
+        } 
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 20, 
+        "fields":{
+            "quote": "This is my canvas, imma paint it how I want to baby",
+            "author": "J.cole",
+            "song": "Apparently"
+        } 
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 21, 
+        "fields":{
+            "quote": "If you ain't aim too high, then you aim too low!",
+            "author": "J.cole",
+            "song": "Januaury 28th"
+        } 
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 22, 
+        "fields":{
+            "quote": "Sometimes our dreams come true, sometimes our fears do too.",
+            "author": "J.cole",
+            "song": "Vendetta"
+        }    
+    },
+    {
+        "model": "quotes.cole",
+        "pk": 23, 
+        "fields":{
+            "quote": "Sometimes our dreams come true, sometimes our fears do too.",
+            "author": "J.cole",
+            "song": "Vendetta"
+        }       
+    }
+]
